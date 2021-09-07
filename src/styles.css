@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Besley:ital@1&display=swap");
+
+.App {
+  font-family: "Besley", serif;
+  text-align: center;
+}
+
+#inputBox {
+  width: max-content;
+  font-size: 20px;
+  margin: 10px auto;
+  padding: 20px;
+  border: 2px solid black;
+}
+.displayOutput {
+  font-size: 20px;
+  margin: 10px auto;
+}
+.emojiDisplay {
+  font-size: 20px;
+  margin: 10px auto;
+}
+.displayEmoji {
+  padding: 5px;
+  font-size: larger;
+  cursor: pointer;
+}
